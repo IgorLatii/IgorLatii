@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Igor!
 
-🌱 I’m currently just learning the programming. For me it is only a hobby now (the most interesting hobby that I ever had 😄), but I'm sure that sometime my hobby will become my principal job!!!
+🌱 Currently I’m just learning the programming. For me it is only a hobby now (the most interesting hobby that I ever had 😄)
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=IgorLatii&show_icons=true&count_private=true">
