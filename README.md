@@ -19,7 +19,7 @@
 *   Java
 *   MySQL
 *   HTML5 / CSS3
-*   GitHub
+*   Git / GitHub
 
 <p align='center'>
    📫 How to reach me: <a href='mailto:igor.latii@outlook.com'>igor.latii@outlook.com</a>
