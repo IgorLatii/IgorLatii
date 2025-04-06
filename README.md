@@ -16,9 +16,10 @@
 </div>
 
 ## 🛠 Technical Stack
-*   Java
+*   Java, Python
 *   MySQL
 *   HTML5 / CSS3
+*   Linux, Windows
 *   Git / GitHub
 
 <p align='center'>
