@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Igor!
 
-🌱 Currently I’m just learning the programming. For me it is only a hobby now (the most interesting hobby that I ever had 😄)
-
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=IgorLatii&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=IgorLatii&show_icons=true&count_private=true"/></a>
