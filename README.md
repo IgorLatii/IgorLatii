@@ -14,9 +14,8 @@
 </div>
 
 ## 🛠 Technical Stack
-*   Java, Python
+*   Python, PowerShell, Java
 *   MySQL
-*   HTML5 / CSS3
 *   Linux, Windows
 *   Git / GitHub
 
